@@ -1,0 +1,41 @@
+{
+  "name": "pay-ai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "@reown/appkit-adapter-wagmi": "^1.7.0",
+    "aos": "^2.3.4",
+    "axios": "^1.8.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "ethers": "^6.13.5",
+    "framer-motion": "^12.5.0",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "^0.482.0",
+    "motion": "^12.5.0",
+    "motion-react": "^0.15.0-alpha.1",
+    "next": "15.1.6",
+    "next-themes": "^0.4.6",
+    "pinata": "^2.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-twitter-login": "^1.5.0",
+    "recharts": "^2.15.1",
+    "reown": "^1.1.4",
+    "tailwind-merge": "^3.0.2",
+    "use-sound": "^5.0.0",
+    "wagmi": "^2.14.13",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
